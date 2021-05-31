@@ -114,7 +114,7 @@
     background-color: #fff;
     position: relative;
     left: 56%;
-    box-shadow: 0 0 18px 0 rgb(0 0 0 / 30%);
+    box-shadow: 1px 2px 3px 1px #ccc;;
 }
 .title {
     color: #c19434;
